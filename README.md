@@ -6,7 +6,7 @@
 2. 手元の環境で以下を行う（ブランチはmainでよい）
     -  `74be75b` と `dcfc05a` のコミットを一つにまとめる。コミットログもつけなおす（そこまで真面目に考えたコミットログでなくてよい）。
     - `bfa705c` のコミットログをつけなす
-3.  [github の hisa-lab](https://github.com/hisa-lab) に、`presemi-git-rebase-学生番号`というリポジトリを作り、push する
+3.  github の自分の領域（hisa-lab ではない！）に、`presemi-git-rebase-学生番号`というリポジトリを public で作り、push する
 4.  discord で確認を依頼する
 
 ## 補足
